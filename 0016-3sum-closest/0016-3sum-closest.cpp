@@ -13,10 +13,10 @@ public:
                     lowest=abs(closest);
                  ans= nums[i]+nums[st]+nums[end];
                   }
-                  if(closest==0){
+                  else if(closest==0){
                     return currentsum;
                   }
-                if(closest>0){
+               else if(closest>0){
                     st++;
 
                 }
