@@ -11,7 +11,7 @@ public:
                 closest=target-currentsum;
                   if(lowest>abs(closest)){
                     lowest=abs(closest);
-                 ans= nums[i]+nums[st]+nums[end];
+                 ans= currentsum;
                   }
              if(closest==0){
                     return currentsum;
