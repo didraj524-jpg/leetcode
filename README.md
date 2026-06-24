@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/didraj524-jpg/leetcode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/didraj524-jpg/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/didraj524-jpg/leetcode/tree/master/0078-subsets) |
+| [0152-maximum-product-subarray](https://github.com/didraj524-jpg/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0523-continuous-subarray-sum](https://github.com/didraj524-jpg/leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Binary Search
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/didraj524-jpg/leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/didraj524-jpg/leetcode/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/didraj524-jpg/leetcode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
