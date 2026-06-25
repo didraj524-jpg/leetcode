@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/didraj524-jpg/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/didraj524-jpg/leetcode/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/didraj524-jpg/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/didraj524-jpg/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/didraj524-jpg/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/didraj524-jpg/leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Binary Search
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/didraj524-jpg/leetcode/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/didraj524-jpg/leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/didraj524-jpg/leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/didraj524-jpg/leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/didraj524-jpg/leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
