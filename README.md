@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/didraj524-jpg/leetcode/tree/master/0016-3sum-closest) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/didraj524-jpg/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/didraj524-jpg/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/didraj524-jpg/leetcode/tree/master/0189-rotate-array) |
 ## Sorting
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/didraj524-jpg/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/didraj524-jpg/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/didraj524-jpg/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
