@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/didraj524-jpg/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/didraj524-jpg/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/didraj524-jpg/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/didraj524-jpg/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/didraj524-jpg/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/didraj524-jpg/leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/didraj524-jpg/leetcode/tree/master/0075-sort-colors) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/didraj524-jpg/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/didraj524-jpg/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/didraj524-jpg/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
