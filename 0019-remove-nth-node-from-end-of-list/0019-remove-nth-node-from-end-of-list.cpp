@@ -15,11 +15,7 @@ public:
         if (head == NULL) {
             return head;
         }
-        if (head->next == NULL && n == 1) {
-            delete head;
-            head = NULL;
-            return head;
-        }
+      
 
         ListNode* temp = head;
         int count = 0;
