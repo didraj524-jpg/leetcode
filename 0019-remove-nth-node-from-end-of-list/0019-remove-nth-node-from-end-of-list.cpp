@@ -31,10 +31,10 @@ public:
         int x = count - n;
 
         if (x == 0) {
-             ListNode* temp = head;
-    head = head->next;
-    delete temp;
-    return head;
+            ListNode* temp = head;
+            head = head->next;
+            delete temp;
+            return head;
         }
         if (x > 0) {
             temp = head;
@@ -46,6 +46,7 @@ public:
                     temp->next = temp->next->next;
                     erase->next = nullptr;
                     delete erase;
+                    break;
                 }
                 temp = temp->next;
             }
