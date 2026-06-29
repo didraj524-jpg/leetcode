@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/didraj524-jpg/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/didraj524-jpg/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/didraj524-jpg/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/didraj524-jpg/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/didraj524-jpg/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/didraj524-jpg/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/didraj524-jpg/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String Matching
 |  |
 | ------- |
