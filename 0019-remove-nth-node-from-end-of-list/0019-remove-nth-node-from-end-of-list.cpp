@@ -20,7 +20,7 @@ public:
             head = NULL;
             return head;
         }
-     
+
         ListNode* temp = head;
         int count = 0;
 
@@ -31,7 +31,10 @@ public:
         int x = count - n;
 
         if (x == 0) {
-            return head->next;
+             ListNode* temp = head;
+    head = head->next;
+    delete temp;
+    return head;
         }
         if (x > 0) {
             temp = head;
