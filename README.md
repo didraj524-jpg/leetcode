@@ -96,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/didraj524-jpg/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/didraj524-jpg/leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/didraj524-jpg/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
