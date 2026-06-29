@@ -20,12 +20,7 @@ public:
             head = NULL;
             return head;
         }
-        // if (head->next->next == nullptr && n == 1) {
-        //     ListNode* temp = head->next;
-        //     head->next = nullptr;
-        //     delete temp;
-        //     return head;
-        // }
+     
         ListNode* temp = head;
         int count = 0;
 
