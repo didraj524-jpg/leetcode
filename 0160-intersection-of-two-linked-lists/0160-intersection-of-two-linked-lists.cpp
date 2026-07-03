@@ -9,10 +9,10 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        unordered_map<ListNode*,int>m;
+        unordered_set<ListNode*>m;
        ListNode* temp=headA;
         while(temp!=NULL){
-            m[temp]-1;
+            m.insert(temp);
             temp=temp->next;
         }
 
